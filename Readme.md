@@ -11,9 +11,9 @@ Master C++, DSA and Software Engineering fundamentals before the end of second y
 
 Topics Completed
 
-☐ Basics
-☐ Loops
-☑ Functions
-☐ Arrays
-☐ Strings
+Basics
+Loops
+Functions
+Arrays
+Strings
 ...
