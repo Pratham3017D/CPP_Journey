@@ -1,19 +1,17 @@
-# CPP Journey
+# C++ Journey 🚀
 
-Course:
-Love Babbar C++ + DSA
+This repository documents my journey of learning C++ and Data Structures & Algorithms from scratch.
 
-Started:
-July 2026
+## Current Progress
 
-Goal:
-Master C++, DSA and Software Engineering fundamentals before the end of second year.
+- ✅ Basics
+- ✅ Functions
+- ✅ Arrays
+  - Linear Search
+  - Reverse Array
+  - Max & Min
+  - Sum of Array
 
-Topics Completed
+## Goal
 
-Basics
-Loops
-Functions
-Arrays
-Strings
-...
+Become proficient in C++, DSA, Open Source, and Software Engineering.
