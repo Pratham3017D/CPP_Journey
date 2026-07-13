@@ -7,10 +7,10 @@ This repository documents my journey of learning C++ and Data Structures & Algor
 - ✅ Basics
 - ✅ Functions
 - ✅ Arrays
-  - Linear Search
-  - Reverse Array
-  - Max & Min
-  - Sum of Array
+- ✅ Linear Search
+- ✅ Reverse Array
+- ✅ Max & Min
+- ✅ Sum of Array
 
 ## Goal
 
