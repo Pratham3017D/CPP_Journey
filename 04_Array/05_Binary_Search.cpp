@@ -36,17 +36,15 @@ int main(){
     cout << "Enter the Key for even: ";
     cin >> key_even;
 
-    cout << binarySearch(even, 6, key_even) << endl;
+    cout << "Index of " << key_even << " is:  " << binarySearch(even, 6, key_even) << endl;
 
-    cout << endl;
-    cout << endl;
     cout << endl;
     
     int key_odd;
     cout << "Enter the Key for odd: ";
     cin >> key_odd;
 
-    cout << binarySearch(odd, 5, key_odd) << endl;
+    cout << "Index of " << key_odd << " is:  " << binarySearch(odd, 5, key_odd) << endl;
 
 
     return 0;
