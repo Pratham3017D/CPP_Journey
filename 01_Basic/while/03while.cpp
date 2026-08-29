@@ -10,9 +10,11 @@ int main(){
     while (i < n){
         if (n%i==0){
             cout << "The number " << n << " is not a prime number." << endl;
+            break;
         }
         else{
             cout << "The number " << n << " is a prime number." << endl;
+            break;
         }
         i = i+1;
     }
