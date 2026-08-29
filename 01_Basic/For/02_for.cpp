@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     int i = 1;
+    int n = 2;
     for( ; ; ){
         if (i <= n){
             cout << i << endl;
